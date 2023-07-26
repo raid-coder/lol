@@ -1,3 +1,8 @@
 *.log
 !exception.log
+<<<<<<< HEAD
 secret.txt
+=======
+secret.txt
+secret
+>>>>>>> 2f3b39051dbe6632fe0dff9eae96608f287a381c
