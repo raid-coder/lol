@@ -1,3 +1,4 @@
 *.log
 !exception.log
 secret.txt
+secret
